@@ -5,7 +5,7 @@ Tumblr Snowing Effect<br>
 # How to install
 
 Please paste the code into your HTML template, right under <body> or <body ...
-(Tumblr user: go to Customize appearance > Edit HTML)
+(Tumblr user: go to Customize appearance > Edit HTML)<br>
 <b>deleted space</b>
 
 < script type="text/javascript" src="http://yourjavascript.com/03601311216/snow.js\"></ script>
