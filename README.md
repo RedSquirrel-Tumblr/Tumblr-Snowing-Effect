@@ -6,6 +6,6 @@ Tumblr Snowing Effect<br>
 
 Please paste the code into your HTML template, right under <body> or <body ...
 (Tumblr user: go to Customize appearance > Edit HTML)<br>
-<b>deleted space</b>
+<b>deleted space; ('< s' & ' </ s')</b>
 
 < script type="text/javascript" src="http://yourjavascript.com/03601311216/snow.js\"></ script>
