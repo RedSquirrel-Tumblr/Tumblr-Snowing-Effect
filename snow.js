@@ -77,7 +77,7 @@ var timer=setTimeout("movesnow()",50)
 
 for (i=0;i<=snowmax;i++) {
 // credit
-document.write("<script src=\"https://raw.githubusercontent.com/RedSquirrel-Tumblr/Tumblr-Snowing-Effect/master/code-credit.js"></script>");
+document.write("<script src=\"https://raw.githubusercontent.com/RedSquirrel-Tumblr/Tumblr-Snowing-Effect/master/code-credit.js\"></script>");
 
 document.write("<span id='s"+i+"' style='position:absolute;top:-"+snowmaxsize+"'>"+snowletter+"</span>")
 }
