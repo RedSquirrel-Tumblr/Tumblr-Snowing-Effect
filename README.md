@@ -1,6 +1,6 @@
 # Tumblr Snowing Effect
 Tumblr Snowing Effect<br>
-<b>kesin-tanri-benim</b>.tumblr.com
+<b>kesin-tanri-benim.tumblr.com</b>
 
 # How to install
 
