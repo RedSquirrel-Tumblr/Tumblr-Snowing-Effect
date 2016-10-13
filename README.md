@@ -7,4 +7,4 @@ kesin-tanri-benim.tumblr.com
 Please paste the code into your HTML template, right under <body> or <body ...
 (Tumblr user: go to Customize appearance > Edit HTML)
 
-< script type="text/javascript" src="http://yourjavascript.com/11316403548/snow.js"></ script>
+< script type="text/javascript" src="http://yourjavascript.com/11316403548/snow.js"></ script> <!--deleted space-->
